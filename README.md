@@ -1,7 +1,6 @@
 # Honey-Production-dataset
 honey production supply and demand in America by state from 1998 to 2012.
-# Data Visualization on Honey Production dataset using seaborn
-and matplotlib libraries.
+# Data Visualization on Honey Production dataset using seaborn and matplotlib libraries.
 # Domain: Food and agriculture
 # Context:
 In 2006, a global concern was raised over the rapid decline in the honeybee population, an integral component
